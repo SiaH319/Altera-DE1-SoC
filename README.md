@@ -10,7 +10,7 @@ This part shows the basics of ARM assembly by programming some common routine by
 
 #### IO and Timers
 
-This section introduces the basic I/O capabilities of the DE1-SoC computer, such as the slider switches, pushbuttons, LEDs, 7-Segment displays and timers (both pollina dn interrup based). <br> <br>
+This section introduces the basic I/O capabilities of the DE1-SoC computer, such as the slider switches, pushbuttons, LEDs, 7-Segment displays and timers (both polling and interrup based). <br> <br>
 
 
 #### VGA and PS2
