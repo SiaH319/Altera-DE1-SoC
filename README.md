@@ -3,6 +3,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Basic ARM assembly
+### IO and Timers
+### VGA and PS2
+
 <!-- GETTING STARTED -->
 ## Getting Started
 The overall project is based on ARMv7 assembly code with DE1-SoC computer. <br>
