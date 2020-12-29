@@ -3,9 +3,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-### Basic ARM assembly
-### IO and Timers
-### VGA and PS2
+#### Basic ARM assembly
+#### IO and Timers
+#### VGA and PS2
 
 <!-- GETTING STARTED -->
 ## Getting Started
